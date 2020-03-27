@@ -1,4 +1,4 @@
-package com.milion1;
+package com.WheatherInMyPocket;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "milion1";
+    return "WheatherInMyPocket";
   }
 }

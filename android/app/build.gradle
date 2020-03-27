@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.milion1"
+        applicationId "com.WheatherInMyPocket"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

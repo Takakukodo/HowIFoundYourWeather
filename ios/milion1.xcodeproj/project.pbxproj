@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* milion1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* milion1Tests.m */; };
+		00E356F31AD99517003FC87E /* WheatherInMyPocketTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* WheatherInMyPocketTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -15,11 +15,11 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* milion1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* milion1Tests.m */; };
-		45CF364DD1AEC31E1A21BBF9 /* libPods-milion1-milion1Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FC9A8554ED768E7A01CC2A4 /* libPods-milion1-milion1Tests.a */; };
-		5337AFE7466A858BC9ECF9CE /* libPods-milion1-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C5D5FB50BAD3A55E44C31C6 /* libPods-milion1-tvOSTests.a */; };
-		717416171712CBD80EAA07C0 /* libPods-milion1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EBEAFFCB2D47CB954D5A7F9B /* libPods-milion1.a */; };
-		CDD49D35AAADE28273A489B4 /* libPods-milion1-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 79ABF303458158AF07152816 /* libPods-milion1-tvOS.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* WheatherInMyPocketTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* WheatherInMyPocketTests.m */; };
+		45CF364DD1AEC31E1A21BBF9 /* libPods-WheatherInMyPocket-WheatherInMyPocketTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FC9A8554ED768E7A01CC2A4 /* libPods-WheatherInMyPocket-WheatherInMyPocketTests.a */; };
+		5337AFE7466A858BC9ECF9CE /* libPods-WheatherInMyPocket-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C5D5FB50BAD3A55E44C31C6 /* libPods-WheatherInMyPocket-tvOSTests.a */; };
+		717416171712CBD80EAA07C0 /* libPods-WheatherInMyPocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EBEAFFCB2D47CB954D5A7F9B /* libPods-WheatherInMyPocket.a */; };
+		CDD49D35AAADE28273A489B4 /* libPods-WheatherInMyPocket-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 79ABF303458158AF07152816 /* libPods-WheatherInMyPocket-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,43 +28,43 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = milion1;
+			remoteInfo = WheatherInMyPocket;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "milion1-tvOS";
+			remoteInfo = "WheatherInMyPocket-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* milion1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = milion1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* WheatherInMyPocketTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WheatherInMyPocketTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* milion1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = milion1Tests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* milion1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = milion1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = milion1/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = milion1/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* WheatherInMyPocketTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WheatherInMyPocketTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* WheatherInMyPocket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WheatherInMyPocket.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = WheatherInMyPocket/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = WheatherInMyPocket/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = milion1/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = milion1/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = milion1/main.m; sourceTree = "<group>"; };
-		16ACB9546BDDD89D5917925A /* Pods-milion1-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-milion1-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-milion1-tvOSTests/Pods-milion1-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* milion1-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "milion1-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* milion1-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "milion1-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B8F83B0A71359B273CB113C /* Pods-milion1-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-milion1-tvOS.release.xcconfig"; path = "Target Support Files/Pods-milion1-tvOS/Pods-milion1-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		4FC9A8554ED768E7A01CC2A4 /* libPods-milion1-milion1Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-milion1-milion1Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		568597826A8859CD74404388 /* Pods-milion1-milion1Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-milion1-milion1Tests.debug.xcconfig"; path = "Target Support Files/Pods-milion1-milion1Tests/Pods-milion1-milion1Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		6AD215C96036487BA114A3AA /* Pods-milion1-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-milion1-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-milion1-tvOS/Pods-milion1-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		79ABF303458158AF07152816 /* libPods-milion1-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-milion1-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7C5D5FB50BAD3A55E44C31C6 /* libPods-milion1-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-milion1-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9773A840A841BBCF7E6636EC /* Pods-milion1-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-milion1-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-milion1-tvOSTests/Pods-milion1-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		97E5CCA0EA07BB6DFDFE512E /* Pods-milion1-milion1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-milion1-milion1Tests.release.xcconfig"; path = "Target Support Files/Pods-milion1-milion1Tests/Pods-milion1-milion1Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C19B426BFE48C9770A99F1A6 /* Pods-milion1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-milion1.release.xcconfig"; path = "Target Support Files/Pods-milion1/Pods-milion1.release.xcconfig"; sourceTree = "<group>"; };
-		CCA424758EEB5DF3C50FCB99 /* Pods-milion1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-milion1.debug.xcconfig"; path = "Target Support Files/Pods-milion1/Pods-milion1.debug.xcconfig"; sourceTree = "<group>"; };
-		EBEAFFCB2D47CB954D5A7F9B /* libPods-milion1.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-milion1.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = WheatherInMyPocket/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = WheatherInMyPocket/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = WheatherInMyPocket/main.m; sourceTree = "<group>"; };
+		16ACB9546BDDD89D5917925A /* Pods-WheatherInMyPocket-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WheatherInMyPocket-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-WheatherInMyPocket-tvOSTests/Pods-WheatherInMyPocket-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* WheatherInMyPocket-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WheatherInMyPocket-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* WheatherInMyPocket-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WheatherInMyPocket-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B8F83B0A71359B273CB113C /* Pods-WheatherInMyPocket-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WheatherInMyPocket-tvOS.release.xcconfig"; path = "Target Support Files/Pods-WheatherInMyPocket-tvOS/Pods-WheatherInMyPocket-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		4FC9A8554ED768E7A01CC2A4 /* libPods-WheatherInMyPocket-WheatherInMyPocketTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WheatherInMyPocket-WheatherInMyPocketTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		568597826A8859CD74404388 /* Pods-WheatherInMyPocket-WheatherInMyPocketTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WheatherInMyPocket-WheatherInMyPocketTests.debug.xcconfig"; path = "Target Support Files/Pods-WheatherInMyPocket-WheatherInMyPocketTests/Pods-WheatherInMyPocket-WheatherInMyPocketTests.debug.xcconfig"; sourceTree = "<group>"; };
+		6AD215C96036487BA114A3AA /* Pods-WheatherInMyPocket-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WheatherInMyPocket-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-WheatherInMyPocket-tvOS/Pods-WheatherInMyPocket-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		79ABF303458158AF07152816 /* libPods-WheatherInMyPocket-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WheatherInMyPocket-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C5D5FB50BAD3A55E44C31C6 /* libPods-WheatherInMyPocket-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WheatherInMyPocket-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9773A840A841BBCF7E6636EC /* Pods-WheatherInMyPocket-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WheatherInMyPocket-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-WheatherInMyPocket-tvOSTests/Pods-WheatherInMyPocket-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		97E5CCA0EA07BB6DFDFE512E /* Pods-WheatherInMyPocket-WheatherInMyPocketTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WheatherInMyPocket-WheatherInMyPocketTests.release.xcconfig"; path = "Target Support Files/Pods-WheatherInMyPocket-WheatherInMyPocketTests/Pods-WheatherInMyPocket-WheatherInMyPocketTests.release.xcconfig"; sourceTree = "<group>"; };
+		C19B426BFE48C9770A99F1A6 /* Pods-WheatherInMyPocket.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WheatherInMyPocket.release.xcconfig"; path = "Target Support Files/Pods-WheatherInMyPocket/Pods-WheatherInMyPocket.release.xcconfig"; sourceTree = "<group>"; };
+		CCA424758EEB5DF3C50FCB99 /* Pods-WheatherInMyPocket.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WheatherInMyPocket.debug.xcconfig"; path = "Target Support Files/Pods-WheatherInMyPocket/Pods-WheatherInMyPocket.debug.xcconfig"; sourceTree = "<group>"; };
+		EBEAFFCB2D47CB954D5A7F9B /* libPods-WheatherInMyPocket.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WheatherInMyPocket.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				45CF364DD1AEC31E1A21BBF9 /* libPods-milion1-milion1Tests.a in Frameworks */,
+				45CF364DD1AEC31E1A21BBF9 /* libPods-WheatherInMyPocket-WheatherInMyPocketTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				717416171712CBD80EAA07C0 /* libPods-milion1.a in Frameworks */,
+				717416171712CBD80EAA07C0 /* libPods-WheatherInMyPocket.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDD49D35AAADE28273A489B4 /* libPods-milion1-tvOS.a in Frameworks */,
+				CDD49D35AAADE28273A489B4 /* libPods-WheatherInMyPocket-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5337AFE7466A858BC9ECF9CE /* libPods-milion1-tvOSTests.a in Frameworks */,
+				5337AFE7466A858BC9ECF9CE /* libPods-WheatherInMyPocket-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* milion1Tests */ = {
+		00E356EF1AD99517003FC87E /* WheatherInMyPocketTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* milion1Tests.m */,
+				00E356F21AD99517003FC87E /* WheatherInMyPocketTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = milion1Tests;
+			path = WheatherInMyPocketTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* milion1 */ = {
+		13B07FAE1A68108700A75B9A /* WheatherInMyPocket */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = milion1;
+			name = WheatherInMyPocket;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				EBEAFFCB2D47CB954D5A7F9B /* libPods-milion1.a */,
-				4FC9A8554ED768E7A01CC2A4 /* libPods-milion1-milion1Tests.a */,
-				79ABF303458158AF07152816 /* libPods-milion1-tvOS.a */,
-				7C5D5FB50BAD3A55E44C31C6 /* libPods-milion1-tvOSTests.a */,
+				EBEAFFCB2D47CB954D5A7F9B /* libPods-WheatherInMyPocket.a */,
+				4FC9A8554ED768E7A01CC2A4 /* libPods-WheatherInMyPocket-WheatherInMyPocketTests.a */,
+				79ABF303458158AF07152816 /* libPods-WheatherInMyPocket-tvOS.a */,
+				7C5D5FB50BAD3A55E44C31C6 /* libPods-WheatherInMyPocket-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* milion1 */,
+				13B07FAE1A68108700A75B9A /* WheatherInMyPocket */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* milion1Tests */,
+				00E356EF1AD99517003FC87E /* WheatherInMyPocketTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				8DEEB6A5894AE6A385A21340 /* Pods */,
@@ -174,10 +174,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* milion1.app */,
-				00E356EE1AD99517003FC87E /* milion1Tests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* milion1-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* milion1-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* WheatherInMyPocket.app */,
+				00E356EE1AD99517003FC87E /* WheatherInMyPocketTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* WheatherInMyPocket-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* WheatherInMyPocket-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,14 +185,14 @@
 		8DEEB6A5894AE6A385A21340 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				CCA424758EEB5DF3C50FCB99 /* Pods-milion1.debug.xcconfig */,
-				C19B426BFE48C9770A99F1A6 /* Pods-milion1.release.xcconfig */,
-				568597826A8859CD74404388 /* Pods-milion1-milion1Tests.debug.xcconfig */,
-				97E5CCA0EA07BB6DFDFE512E /* Pods-milion1-milion1Tests.release.xcconfig */,
-				6AD215C96036487BA114A3AA /* Pods-milion1-tvOS.debug.xcconfig */,
-				3B8F83B0A71359B273CB113C /* Pods-milion1-tvOS.release.xcconfig */,
-				9773A840A841BBCF7E6636EC /* Pods-milion1-tvOSTests.debug.xcconfig */,
-				16ACB9546BDDD89D5917925A /* Pods-milion1-tvOSTests.release.xcconfig */,
+				CCA424758EEB5DF3C50FCB99 /* Pods-WheatherInMyPocket.debug.xcconfig */,
+				C19B426BFE48C9770A99F1A6 /* Pods-WheatherInMyPocket.release.xcconfig */,
+				568597826A8859CD74404388 /* Pods-WheatherInMyPocket-WheatherInMyPocketTests.debug.xcconfig */,
+				97E5CCA0EA07BB6DFDFE512E /* Pods-WheatherInMyPocket-WheatherInMyPocketTests.release.xcconfig */,
+				6AD215C96036487BA114A3AA /* Pods-WheatherInMyPocket-tvOS.debug.xcconfig */,
+				3B8F83B0A71359B273CB113C /* Pods-WheatherInMyPocket-tvOS.release.xcconfig */,
+				9773A840A841BBCF7E6636EC /* Pods-WheatherInMyPocket-tvOSTests.debug.xcconfig */,
+				16ACB9546BDDD89D5917925A /* Pods-WheatherInMyPocket-tvOSTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* milion1Tests */ = {
+		00E356ED1AD99517003FC87E /* WheatherInMyPocketTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "milion1Tests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "WheatherInMyPocketTests" */;
 			buildPhases = (
 				F2A31AFE8DC352F71597F88A /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -215,14 +215,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = milion1Tests;
-			productName = milion1Tests;
-			productReference = 00E356EE1AD99517003FC87E /* milion1Tests.xctest */;
+			name = WheatherInMyPocketTests;
+			productName = WheatherInMyPocketTests;
+			productReference = 00E356EE1AD99517003FC87E /* WheatherInMyPocketTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* milion1 */ = {
+		13B07F861A680F5B00A75B9A /* WheatherInMyPocket */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "milion1" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "WheatherInMyPocket" */;
 			buildPhases = (
 				CB405311A4CA801ABE1616A2 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -235,14 +235,14 @@
 			);
 			dependencies = (
 			);
-			name = milion1;
-			productName = milion1;
-			productReference = 13B07F961A680F5B00A75B9A /* milion1.app */;
+			name = WheatherInMyPocket;
+			productName = WheatherInMyPocket;
+			productReference = 13B07F961A680F5B00A75B9A /* WheatherInMyPocket.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* milion1-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* WheatherInMyPocket-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "milion1-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "WheatherInMyPocket-tvOS" */;
 			buildPhases = (
 				F9808E4F6876927AFFAEB541 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -255,14 +255,14 @@
 			);
 			dependencies = (
 			);
-			name = "milion1-tvOS";
-			productName = "milion1-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* milion1-tvOS.app */;
+			name = "WheatherInMyPocket-tvOS";
+			productName = "WheatherInMyPocket-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* WheatherInMyPocket-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* milion1-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* WheatherInMyPocket-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "milion1-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "WheatherInMyPocket-tvOSTests" */;
 			buildPhases = (
 				334C3A480A438A0B9F581591 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -274,9 +274,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "milion1-tvOSTests";
-			productName = "milion1-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* milion1-tvOSTests.xctest */;
+			name = "WheatherInMyPocket-tvOSTests";
+			productName = "WheatherInMyPocket-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* WheatherInMyPocket-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -305,7 +305,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "milion1" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "WheatherInMyPocket" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -318,10 +318,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* milion1 */,
-				00E356ED1AD99517003FC87E /* milion1Tests */,
-				2D02E47A1E0B4A5D006451C7 /* milion1-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* milion1-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* WheatherInMyPocket */,
+				00E356ED1AD99517003FC87E /* WheatherInMyPocketTests */,
+				2D02E47A1E0B4A5D006451C7 /* WheatherInMyPocket-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* WheatherInMyPocket-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -404,7 +404,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-milion1-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-WheatherInMyPocket-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -426,7 +426,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-milion1-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-WheatherInMyPocket-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -448,7 +448,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-milion1-milion1Tests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-WheatherInMyPocket-WheatherInMyPocketTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -470,7 +470,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-milion1-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-WheatherInMyPocket-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -522,7 +522,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* milion1Tests.m in Sources */,
+				00E356F31AD99517003FC87E /* WheatherInMyPocketTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -548,7 +548,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* milion1Tests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* WheatherInMyPocketTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -557,12 +557,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* milion1 */;
+			target = 13B07F861A680F5B00A75B9A /* WheatherInMyPocket */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* milion1-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* WheatherInMyPocket-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -574,7 +574,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = milion1;
+			path = WheatherInMyPocket;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -582,14 +582,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 568597826A8859CD74404388 /* Pods-milion1-milion1Tests.debug.xcconfig */;
+			baseConfigurationReference = 568597826A8859CD74404388 /* Pods-WheatherInMyPocket-WheatherInMyPocketTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = milion1Tests/Info.plist;
+				INFOPLIST_FILE = WheatherInMyPocketTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -599,17 +599,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/milion1.app/milion1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WheatherInMyPocket.app/WheatherInMyPocket";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 97E5CCA0EA07BB6DFDFE512E /* Pods-milion1-milion1Tests.release.xcconfig */;
+			baseConfigurationReference = 97E5CCA0EA07BB6DFDFE512E /* Pods-WheatherInMyPocket-WheatherInMyPocketTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = milion1Tests/Info.plist;
+				INFOPLIST_FILE = WheatherInMyPocketTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -619,13 +619,13 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/milion1.app/milion1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WheatherInMyPocket.app/WheatherInMyPocket";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CCA424758EEB5DF3C50FCB99 /* Pods-milion1.debug.xcconfig */;
+			baseConfigurationReference = CCA424758EEB5DF3C50FCB99 /* Pods-WheatherInMyPocket.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -635,7 +635,7 @@
 					"$(inherited)",
 					"FB_SONARKIT_ENABLED=1",
 				);
-				INFOPLIST_FILE = milion1/Info.plist;
+				INFOPLIST_FILE = WheatherInMyPocket/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -643,7 +643,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = milion1;
+				PRODUCT_NAME = WheatherInMyPocket;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -652,12 +652,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C19B426BFE48C9770A99F1A6 /* Pods-milion1.release.xcconfig */;
+			baseConfigurationReference = C19B426BFE48C9770A99F1A6 /* Pods-WheatherInMyPocket.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = milion1/Info.plist;
+				INFOPLIST_FILE = WheatherInMyPocket/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -665,7 +665,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = milion1;
+				PRODUCT_NAME = WheatherInMyPocket;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -673,7 +673,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6AD215C96036487BA114A3AA /* Pods-milion1-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 6AD215C96036487BA114A3AA /* Pods-WheatherInMyPocket-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -684,14 +684,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "milion1-tvOS/Info.plist";
+				INFOPLIST_FILE = "WheatherInMyPocket-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.milion1-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.WheatherInMyPocket-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -701,7 +701,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B8F83B0A71359B273CB113C /* Pods-milion1-tvOS.release.xcconfig */;
+			baseConfigurationReference = 3B8F83B0A71359B273CB113C /* Pods-WheatherInMyPocket-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -712,14 +712,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "milion1-tvOS/Info.plist";
+				INFOPLIST_FILE = "WheatherInMyPocket-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.milion1-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.WheatherInMyPocket-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -729,7 +729,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9773A840A841BBCF7E6636EC /* Pods-milion1-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 9773A840A841BBCF7E6636EC /* Pods-WheatherInMyPocket-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -739,24 +739,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "milion1-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "WheatherInMyPocket-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.milion1-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.WheatherInMyPocket-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/milion1-tvOS.app/milion1-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WheatherInMyPocket-tvOS.app/WheatherInMyPocket-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 16ACB9546BDDD89D5917925A /* Pods-milion1-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 16ACB9546BDDD89D5917925A /* Pods-WheatherInMyPocket-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -766,17 +766,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "milion1-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "WheatherInMyPocket-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.milion1-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.WheatherInMyPocket-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/milion1-tvOS.app/milion1-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WheatherInMyPocket-tvOS.app/WheatherInMyPocket-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -897,7 +897,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "milion1Tests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "WheatherInMyPocketTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -906,7 +906,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "milion1" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "WheatherInMyPocket" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -915,7 +915,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "milion1-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "WheatherInMyPocket-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -924,7 +924,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "milion1-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "WheatherInMyPocket-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -933,7 +933,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "milion1" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "WheatherInMyPocket" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
