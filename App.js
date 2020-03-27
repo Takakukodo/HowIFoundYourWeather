@@ -7,14 +7,11 @@
  */
 
 import React from 'react';
-import {View, Text} from 'react-native';
-
+import { Main } from './app/main/main';
 const App = () => {
   return (
     <>
-      <View>
-        <Text>cycki</Text>
-      </View>
+      <Main />
     </>
   );
 };

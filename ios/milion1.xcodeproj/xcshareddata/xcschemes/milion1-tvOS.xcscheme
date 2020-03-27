@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "milion1-tvOS.app"
-               BlueprintName = "milion1-tvOS"
-               ReferencedContainer = "container:milion1.xcodeproj">
+               BuildableName = "WheatherInMyPocket-tvOS.app"
+               BlueprintName = "WheatherInMyPocket-tvOS"
+               ReferencedContainer = "container:WheatherInMyPocket.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "milion1-tvOSTests.xctest"
-               BlueprintName = "milion1-tvOSTests"
-               ReferencedContainer = "container:milion1.xcodeproj">
+               BuildableName = "WheatherInMyPocket-tvOSTests.xctest"
+               BlueprintName = "WheatherInMyPocket-tvOSTests"
+               ReferencedContainer = "container:WheatherInMyPocket.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "milion1-tvOS.app"
-            BlueprintName = "milion1-tvOS"
-            ReferencedContainer = "container:milion1.xcodeproj">
+            BuildableName = "WheatherInMyPocket-tvOS.app"
+            BlueprintName = "WheatherInMyPocket-tvOS"
+            ReferencedContainer = "container:WheatherInMyPocket.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "milion1-tvOS.app"
-            BlueprintName = "milion1-tvOS"
-            ReferencedContainer = "container:milion1.xcodeproj">
+            BuildableName = "WheatherInMyPocket-tvOS.app"
+            BlueprintName = "WheatherInMyPocket-tvOS"
+            ReferencedContainer = "container:WheatherInMyPocket.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
